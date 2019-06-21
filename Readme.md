@@ -10,6 +10,9 @@
 * [MainPageViewModel.cs](./CS/S171806_CustomArgs/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/S171806_CustomArgs/MainPageViewModel.vb))
 <!-- default file list end -->
 # Report Service - How to process documents with custom context
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4878)**
+<!-- run online end -->
 
 
 <p>This sample illustrates how to export documents on the server and perform custom actions with a document (e.g., save it to file).</p>
